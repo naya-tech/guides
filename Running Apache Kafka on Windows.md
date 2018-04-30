@@ -86,5 +86,3 @@ If you are able to push & see your messages in consumer side, you are done with 
 ## Reference Links
 1. http://kafka.apache.org/documentation.html
 2. https://zookeeper.apache.org/doc/trunk/zookeeperStarted.html
-
-![2.png](attachment:2.png)![3.png](attachment:3.png)
